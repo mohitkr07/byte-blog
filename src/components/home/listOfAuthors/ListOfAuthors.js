@@ -1,3 +1,4 @@
+import React from "react"
 import styles from './ListOfAuthors.module.css'
 
 const ListOfAuthors = props => {
